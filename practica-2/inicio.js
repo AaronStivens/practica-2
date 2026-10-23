@@ -9,3 +9,6 @@ console.log("La suma de los números es: " + suma)
 
 var resta = numero1 - numero2 - numero3
 console.log("La resta de los números es: " + resta)
+
+var multiplicacion = numero1 * numero2 * numero3
+console.log("La multiplicación de los números es: " + multiplicacion)
